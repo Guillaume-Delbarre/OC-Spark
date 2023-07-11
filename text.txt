@@ -1,0 +1,3 @@
+Ceci est un test pour le wordwount et il faut ce que test soit bien
+Les tests sont importants etre sur que les devs sont bons
+Le wordcount est un algorithme pour compter le nombre d'occurence des mots
