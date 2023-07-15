@@ -12,3 +12,12 @@ Avec :
 - *text.txt* le fichier texte utilisé par le script
 
 Le résultat est ensuite print dans le terminal
+
+Une autre méthode pour utiliser pyspark est d'utiliser directement le terminal grâce à la commande :
+    
+    PYSPARK_DRIVER_PYTHON=ipython $SPARK_HOME/bin/pyspark
+
+
+## Monitorer les traitement sparks
+
+Une manière de voir un état des lieus des lancements des traitements sparks qui ont été effectué est de lancé sparkUI. C'est une interface disponnible via navigateur à l'adresse **http://localhost:4040** *(lorsque le lancement est en local)*
