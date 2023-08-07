@@ -21,3 +21,8 @@ Une autre méthode pour utiliser pyspark est d'utiliser directement le terminal 
 ## Monitorer les traitement sparks
 
 Une manière de voir un état des lieus des lancements des traitements sparks qui ont été effectué est de lancé sparkUI. C'est une interface disponnible via navigateur à l'adresse **http://localhost:4040** *(lorsque le lancement est en local)*
+
+
+## Mise en pratique de l'utilisation de Spark
+
+Pour la mise en pratique, je me suis basé sur deux csv contenant les statistiques des joueurs de NBA sur la saison 2022-2023. Je l'ai récupéré sur Kaggle [ici](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular?resource=download)
